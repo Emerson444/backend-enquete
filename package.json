@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/Emerson444/backend-enquete#readme",
   "devDependencies": {
+    "@types/express": "^5.0.6",
     "@types/node": "^26.1.1",
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
